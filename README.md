@@ -18,14 +18,14 @@ This repository contains the source code for a **Full-Stack AI SaaS Text-to-Imag
 ## Technology Stack
 
 ### Backend
-- **Python**
-- **Flask** (for API development)
+- **Express, CORS** (for API development)
+- **Json Web Token** (for User Authentication)
+- **bcrypt** (for Password Hashing)
 - **Clipdrop API** (for image generation)
 - **MongoDB** (for database management)
 
 ### Frontend
-- **HTML, CSS, JavaScript** (for user interface)
-- **Bootstrap** (for responsive design)
+- **HTML, CSS, JavaScript, ReactJS** (for user interface)
 
 ### Payment Integration
 - **Razorpay** (for handling payments)
